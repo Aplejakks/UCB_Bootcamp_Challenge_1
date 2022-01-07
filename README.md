@@ -13,4 +13,13 @@ If the fair value of the loan is greater than or equal to the price of the loan,
 
 ## Part 3
 
+Part 3 of the project defines a function that calculates the present value of a loan and prints the result.
+
+## Part 4
+
+Part 4 creates a list of loans below a certain amount out of a larger list of loans.
+
+## Part 5
+
+Part 5 saves the list of inexpensive loans in a .csv file.
 
