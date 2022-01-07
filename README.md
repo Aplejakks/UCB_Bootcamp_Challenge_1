@@ -1,2 +1,2 @@
-# UCB_Bootcamp_Challenge_1
+# Loan Analyzer
 Financial Programming with Python
